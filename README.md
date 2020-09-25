@@ -34,6 +34,8 @@ Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software e
 
 - 👨‍💻 You can check out all of my projects at [my website](harveyreynier.com)
 
+- 📚 See what I'm currently [reading](https://beta.readng.co/user/harvey)
+
 - 💬 Talk to me about **Tech, VR, Travelling, and any music (but especially House!)**
 ---
 
