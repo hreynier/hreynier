@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 living in London. I've recently graduated from UCL and I hold a Bachelor of Engineering from Sheffield. Currently, I'm working on an open-source community project ✨ to promote open and democratic data usage at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 living in London. I've recently graduated from UCL and I hold a Bachelor of Engineering from Sheffield. Currently, I'm working on an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
 
 
 
