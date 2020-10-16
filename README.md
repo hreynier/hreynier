@@ -39,29 +39,33 @@ Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software e
 - 💬 Talk to me about **Tech, VR, Travelling, and any music (but especially House!)**
 ---
 
-**Languages, Frameworks & Tools**
+**Main Languages, Frameworks & Tools**
 <br /> <br />
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code>
+<!--
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50"/></code>
+-->
+<code><img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50"/></code>
+<code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" /></code>
-  
-  
+<!--<code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" /></code>
+-->
+<!--
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/></code>
+-->
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/></code> 
+<!--
 <code><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></code>  
-  
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></code>
-<code><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/></code> 
+-->
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  width="50" height="50"/></code>  
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hreynier&layout=compact" alt="hreynier" /></p>
--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hreynier&show_icons=true" alt="hreynier" /></p>
+-->
