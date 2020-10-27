@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 living in London. I've recently graduated from UCL and I hold a Bachelor of Engineering from Sheffield. Currently, I'm working on an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). I'm also working on a full-stack React app, [Techstart](https://app.harveyreynier.com), to aggregate entry-level tech jobs from a range of job sites. Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm working on a full-stack React app, [Techstart](https://app.harveyreynier.com), to aggregate entry-level tech jobs from a range of job sites. Previously, I helped contribute to an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). I'm also working on  Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
 
 
 
-- 🔭 I’m currently working on [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/) and [Techstart](https://app.harveyreynier.com)
+- 🔭 I’m currently working on [Techstart](https://app.harveyreynier.com)
 
-- 🌱 I’m currently learning **Rust and the React Ecosystem**
+- 🌱 I’m currently learning **Rust** and the **React Ecosystem**
 
-- 👯 I’m looking to collaborate on more **Open Source Projects**
+- 👯 I’m looking to collaborate on any **Open Source Project!**
 
 - 👨‍💻 You can check out all of my projects at [my website](harveyreynier.com)
 
