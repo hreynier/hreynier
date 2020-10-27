@@ -28,7 +28,7 @@ Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software e
 
 - 🔭 I’m currently working on [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/) and [Techstart](https://app.harveyreynier.com)
 
-- 🌱 I’m currently learning **React, C#, Gatsby**
+- 🌱 I’m currently learning **Rust and the React Ecosystem**
 
 - 👯 I’m looking to collaborate on more **Open Source Projects**
 
