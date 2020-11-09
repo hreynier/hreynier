@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm working on a full-stack React app, [Techstart](https://app.harveyreynier.com), to aggregate entry-level tech jobs from a range of job sites. Previously, I helped contribute to an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). I'm also working on  Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm working on a full-stack React app, [Techstart](https://app.harveyreynier.com), to aggregate entry-level tech jobs from a range of job sites. Previously, I helped contribute to an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
 
 
 
