@@ -32,7 +32,7 @@ Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software e
 
 - 👯 I’m looking to collaborate on any **Open Source Project!**
 
-- 👨‍💻 You can check out all of my projects at [my website](harveyreynier.com)
+- 👨‍💻 You can check out all of my projects at [my website](https://harveyreynier.com)
 
 - 📚 See what I'm currently [reading](https://beta.readng.co/user/harvey)
 
@@ -47,7 +47,7 @@ Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software e
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></code>
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" /></code>
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="50" height="50"/></code> 
+ 
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  width="50" height="50"/></code>  
 <!--
