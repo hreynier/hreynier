@@ -15,40 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Harvey #
-<a href="https://twitter.com/harveyreynier" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Harvey's Twiiter" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/harveyreynier" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Harvey's LinkedIn" height="30" width="30" /></a>
-<a href="mailto:harvey.reynier@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Harvey's Mail" height="30" width="30" /></a>       <img src="https://komarev.com/ghpvc/?username=hreynier" alt="hreynier" />
-
+# Hi 👋 #
 <br />
 
-Hi, I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm working on a full-stack React app, [Techstart](https://app.harveyreynier.com), to aggregate entry-level tech jobs from a range of job sites. Previously, I helped contribute to an open-source community project ✨ to promote open and democratic data science at [Bring Your Own Map](https://bring-your-own-map.firebaseapp.com/). Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm building several react-based projects and I previously developed [Techstart](https://app.harveyreynier.com) to aggregate entry-level tech jobs from a range of job sites. In the past, I've helped contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**. Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
 
+---
 
+- 🔭 I’m currently working on a few projects and sites, check out my most recent project [here!](https://app.harveyreynier.com)
 
-- 🔭 I’m currently working on [Techstart](https://app.harveyreynier.com)
+- 🌱 I’m currently strengthening my **React** and **JavaScript** skills by learning additional React libraries and building upon advanced concepts.
 
-- 🌱 I’m currently learning **Rust** and the **React Ecosystem**
+- 👯 I’m looking to collaborate on javascript-related **Open Source Projects**
 
-- 👯 I’m looking to collaborate on any **Open Source Project!**
-
-- 👨‍💻 You can check out all of my projects at [my website](https://harveyreynier.com)
+- 👨‍💻 You can check out all of my projects and more [here!](https://harveyreynier.com)
 
 - 📚 See what I'm currently [reading](https://beta.readng.co/user/harvey)
 
-- 💬 Talk to me about **Tech, VR, Travelling, and any music (but especially House!)**
----
+- 💬 Talk to me about **the future, travel/geography, and dance/hip-hop**
 
-**Main Languages, Frameworks & Tools**
+<!--**Main Languages, Frameworks & Tools**
 <br /> <br />
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code>
 <code><img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="Python" width="50" height="50"/></code>
 <code><img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></code>
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" /></code>
+<!--<code><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" /></code>
  
-<code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code>
+<!--<code><img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase"  width="50" height="50"/></code>  
 <!--
 <code><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/></code>
