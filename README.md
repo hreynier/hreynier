@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 # Hi 👋 #
 <br />
 
-I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm building several react-based projects and I previously developed [Techstart](https://app.harveyreynier.com) to aggregate entry-level tech jobs from a range of job sites. In the past, I've helped contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**. Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm building several react-based projects and I previously developed [Techstart](https://github.com/hreynier/job-board) to aggregate entry-level tech jobs from a range of job sites. In the past, I've helped contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**. Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
 
 ---
 
-- 🔭 I’m currently working on a few projects and sites, check out my most recent project [here!](https://app.harveyreynier.com)
+- 🔭 I’m currently working on a few projects and sites, check out my most recent project ~~here!(https://app.harveyreynier.com)~~ *Cloud Provider is currently down :(*
 
 - 🌱 I’m currently strengthening my **React** and **JavaScript** skills by learning additional React libraries and building upon advanced concepts.
 
