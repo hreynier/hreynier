@@ -22,7 +22,7 @@ I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engin
 
 ---
 
-- 🔭 I’m currently working on a few projects and sites, check out my most recent project ~~here!(https://app.harveyreynier.com)~~ *Cloud Provider is currently down :(*
+- 🔭 I’m currently working on a few projects and sites, check out my most recent project [here!](https://github.com/hreynier/job-board)
 
 - 🌱 I’m currently strengthening my **React** and **JavaScript** skills by learning additional React libraries and building upon advanced concepts.
 
@@ -32,7 +32,7 @@ I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engin
 
 - 📚 See what I'm currently [reading](https://beta.readng.co/user/harvey)
 
-- 💬 Talk to me about **the future, travel/geography, and dance/hip-hop**
+- 💬 Talk to me about **futurism, travel, dance music, and Formula 1 🏎️**
 
 <!--**Main Languages, Frameworks & Tools**
 <br /> <br />
