@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 # Hi 👋 #
 <br />
 
-I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer and web developer 🚀 based in London. Currently, I'm building several react-based projects and I previously developed [Techstart](https://github.com/hreynier/job-board) to aggregate entry-level tech jobs from a range of job sites. In the past, I've helped contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**. Besides programming, I love travelling 🗺️, coffee ☕, and music 🎧.
+I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer 🚀 based in London. Currently, I'm a software engineer at Snap, helping bring content to our users worldwide. Previously, I developed [Techstart](https://github.com/hreynier/job-board), an entry-level tech job aggregator to help young graduates kickstart their careers. I've also helped to contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**.
+<br /> Besides programming, I love travelling 🗺️, coffee ☕, music 🎧, and Formula 1 🏎️! 
 
----
+<br />
+My inbox is always open, so feel free to hmu 👍
 
+<!--
 - 🔭 I’m currently working on a few projects and sites, check out my most recent project [here!](https://github.com/hreynier/job-board)
 
 - 🌱 I’m currently strengthening my **React** and **JavaScript** skills by learning additional React libraries and building upon advanced concepts.
@@ -33,6 +36,7 @@ I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engin
 - 📚 See what I'm currently [reading](https://beta.readng.co/user/harvey)
 
 - 💬 Talk to me about **futurism, travel, dance music, and Formula 1 🏎️**
+-->
 
 <!--**Main Languages, Frameworks & Tools**
 <br /> <br />
