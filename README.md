@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi 👋 #
 <br />
 
-I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer 🚀 based in London. Currently, I'm a software engineer at Snap, helping bring content to our users worldwide. Previously, I developed [Techstart](https://github.com/hreynier/job-board), an entry-level tech job aggregator to help young graduates kickstart their careers. I've also helped to contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**.
+I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer 🚀 based in London. Currently, I'm building web-based software at Snap. Previously, I developed [Techstart](https://github.com/hreynier/job-board), an entry-level tech job aggregator to help young graduates kickstart their careers. I've also helped to contribute towards an open-source community project ✨ to promote open and democratic data science at **Bring Your Own Map**.
 <br /> Besides programming, I love travelling 🗺️, coffee ☕, music 🎧, and Formula 1 🏎️! 
 
 <br />
