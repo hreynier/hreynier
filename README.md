@@ -6,5 +6,5 @@ I also worked at Snap where I was part of the team bringing snapchat to the web 
 
 I'm interested in graphics, simulations, and currently learning Rust to help in those endeavors.
 
-Always open for a chat, whether it's to meet, talk about opportunities or just find out more about me!
-Contact me below ~
+Always open for a chat, whether it's to meet, talk about opportunities or just find out more about me! 
+<br/>My inbox is always open
