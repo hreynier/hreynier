@@ -1,11 +1,10 @@
+Hey 👋 <br/>
+I'm a software engineer and product builder – currently building AI @ [monday.com](https://www.monday.com). 
 
-# Hi 👋 #
-<br />
+Previously, I helped launch and scale [Lottielab](https://lottielab.com) to **100k users** and helped win us a golden kitty for [design product of the year](https://www.producthunt.com/products/lottielab/awards).
+I also worked at Snap where I was part of the team bringing snapchat to the web at [my.snapchat.com](https://my.snapchat.com).
 
-I'm [Harvey Reynier](https://harveyreynier.com), a product-minded software engineer 🚀 currently based in London. I enjoy building consumer products that bring real value to end users. Currently, I'm helping to build [Lottielab](https://lottielab.com/) to democratize motion design for everyone. I've previously worked at [Snap](https://snapchat.com), where I was part of the team that built [Snapchat on the Web](https://my.snapchat.com/)!
-<br />
-In my spare time, I try to build a few mini-projects a year, usually to learn new technologies or tools, please check them out below 🙋‍♂.
-<br /> Besides programming, I love travelling 🗺️, coffee ☕, music 🎧, and Formula 1 🏎️! 
+I'm interested in graphics, simulations, and currently learning Rust to help in those endeavors.
 
-<br />
-My inbox is always open, so feel free to hmu 👍
+Always open for a chat, whether it's to meet, talk about opportunities or just find out more about me!
+Contact me below ~
